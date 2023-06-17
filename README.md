@@ -7,3 +7,5 @@
 
 Just Copy and Paste it to, For example C:\Program Files\Python37 (Copy inside Python X.X.XX repository)
 Dont forget to set environment variable path to python location. For Example: Varable Name = Path, Variable Value = C:\Program Files\PythonXX\Scripts\;C:\Program Files\PythonXX
+
+If U have any issue, just tell me.
